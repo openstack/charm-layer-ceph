@@ -1,0 +1,8 @@
+includes: ['layer:basic', 'layer:openstack']
+repo: 'https://github.com/openstack-charmers/charm-layer-ceph'
+config:
+  deletes:
+    - debug
+    - ssl_ca
+    - use-internal-endpoints
+    - verbose

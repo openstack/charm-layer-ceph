@@ -1,0 +1,8 @@
+name: layer-ceph
+summary: Ceph Base Layer
+maintainer: OpenStack Charmers <openstack-charmers@lists.ubuntu.com>
+description: |
+ The Base Layer for Ceph reactive charms
+tags:
+  - openstack
+  - storage
