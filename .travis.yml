@@ -1,9 +1,0 @@
-language: python
-python:
- - "3.6"
-install: pip install tox-travis charm-tools
-env:
-  - ENV=pep8
-  - ENV=build
-script:
-  - tox -e $ENV --workdir /tmp/tox
