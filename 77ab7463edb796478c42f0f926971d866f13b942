@@ -1,0 +1,9 @@
+Verified+1: Canonical CI <uosci-testing-bot@ubuntu.com>
+Code-Review+2: James Page <james.page@canonical.com>
+Workflow+1: James Page <james.page@canonical.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 29 Aug 2019 15:08:36 +0000
+Reviewed-on: https://review.opendev.org/678847
+Project: openstack/charm-layer-ceph
+Branch: refs/heads/master
